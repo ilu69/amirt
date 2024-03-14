@@ -1,0 +1,71 @@
+
+.topnav {
+    position: relative;
+    left: 70%;
+    font-size:20px;
+    height:50px;
+    bottom:-10px;
+} 
+
+.profile{
+    position:relative;
+    left:-70%;
+    color:blueviolet;
+    font-size:20px;
+    bottom:-40%;
+}
+
+.profile:link{
+    text-decoration: none;
+}
+
+.profile:visited{
+    text-decoration:none;
+}
+
+.coloroftn:link{
+    text-decoration: none;
+}
+
+
+.coloroftn:visited{
+    text-decoration:none;
+}
+ 
+.coloroftn {
+    color:cornflowerblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.title{
+    height:300px;
+    background-image: url(books1.jpg);
+    color:white;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.contacts{
+   text-align: center;
+}
+
+.books{
+   position:relative;
+   display: inline flex;
+   height:500px;
+   margin:20px;
+   padding:20px;
+
+}
+.additions{
+    border-radius:5px;
+    border-color:blueviolet;
+}
+.dark-mode{
+    background-color:black;
+    color:white;
+}
+p{
+    font-family:'Jost', sans-serif;
+}
+
